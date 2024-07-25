@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Doctors";
+}
+
+
+
+<style>
+    .services {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .card {
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        width: calc(33.333% - 20px);
+        box-sizing: border-box;
+        transition: transform 0.2s;
+    }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .card h4 {
+            margin-top: 0;
+            color: #5fcf80;
+        }
+
+        .card p {
+            color: #666;
+        }
+</style>
+
+<h2>Doctors</h2>
+<div class="services">
+    <div class="card">
+        <h4>Dr. Ahmad</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.</p>
+    </div>
+    <div class="card">
+        <h4>Dr. Ahmad</h4>
+        <p>Quisque ut dolor gravida, placerat libero vel, euismod. Nulla facilisi.</p>
+    </div>
+    <div class="card">
+        <h4>Dr. Ahmad</h4>
+        <p>Morbi vitae orci pharetra, volutpat sapien nec, viverra magna.</p>
+    </div>
+    <div class="card">
+        <h4>Dr. Ahmad</h4>
+        <p>Curabitur venenatis, elit nec tristique faucibus, felis lorem scelerisque velit.</p>
+    </div>
+    <div class="card">
+        <h4>Dr. Ahmad</h4>
+        <p>Etiam at ipsum at ligula vestibulum tincidunt nec ut velit.</p>
+    </div>
+    <div class="card">
+        <h4>Dr. Ahmad</h4>
+        <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
+    </div>
+</div>
