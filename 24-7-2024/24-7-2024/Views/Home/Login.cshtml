@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+
+<style>
+    .containerForm {
+        background-color: lightgray;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-container {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 400px;
+        max-width: 100%;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+
+
+    input[type="password"],
+    input[type="email"] {
+        width: calc(100% - 22px);
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+
+
+    input[type="submit"] {
+        background-color: #5fcf80;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+        input[type="submit"]:hover {
+            background-color: #4eac6b;
+        }
+</style>
+<center>
+    <div class="containerForm">
+        <form method="post">
+            <br />
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-danger">@ViewBag.Message</div>
+            }
+
+            @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+            {
+                <h2>Login</h2>
+                <br />
+                <p>Email</p>
+                <input type="email" name="email" /><br />
+
+                <p>Password</p>
+                <input type="password" name="password" /><br /><br />
+                <br />
+                <input type="submit" name="submit" value="Login!" /><br /><br />
+            }
+            </form>
+    </div>
+</center>

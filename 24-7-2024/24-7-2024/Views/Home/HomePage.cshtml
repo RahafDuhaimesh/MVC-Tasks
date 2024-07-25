@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<center><br />
+    <h2>Home Page</h2><br />
+    <div style="font-size:30px">
+        @if (Session["LoggedUser"] != null)
+        {
+            <h3>Welcome, @Session["LoggedUser"]!</h3>
+            <p>You can make the <a href="@Url.Action("ContactForm", "Home")">feedback</a> now! .</p>
+        }
+        else
+        {
+            <p>Please <a href="@Url.Action("Login", "Home")">login</a> to make the feedback.</p>
+        }
+    </div>
+</center>
