@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\views\\userdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\views\\userdata\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\asp.net mvc\\28-7-2024\\28-7-2024\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\controllers\\userdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\views\\userdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\views\\userdata\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\models\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\models\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\views\\userdata\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\views\\userdata\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\views\\userdata\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\views\\userdata\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\views\\userdata\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\views\\userdata\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\models\\usermodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{77725047-65E5-4C6B-92AC-E38498322D64}|28-7-2024\\28-7-2024.csproj|solutionrelative:28-7-2024\\models\\usermodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Delete.cshtml",
+              "RelativeDocumentMoniker": "28-7-2024\\Views\\UserData\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Delete.cshtml",
+              "RelativeToolTip": "28-7-2024\\Views\\UserData\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:46:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Edit.cshtml",
+              "RelativeDocumentMoniker": "28-7-2024\\Views\\UserData\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Edit.cshtml",
+              "RelativeToolTip": "28-7-2024\\Views\\UserData\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:46:02.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Create.cshtml",
+              "RelativeDocumentMoniker": "28-7-2024\\Views\\UserData\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Create.cshtml",
+              "RelativeToolTip": "28-7-2024\\Views\\UserData\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:45:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Details.cshtml",
+              "RelativeDocumentMoniker": "28-7-2024\\Views\\UserData\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Details.cshtml",
+              "RelativeToolTip": "28-7-2024\\Views\\UserData\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:45:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Index.cshtml",
+              "RelativeDocumentMoniker": "28-7-2024\\Views\\UserData\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Views\\UserData\\Index.cshtml",
+              "RelativeToolTip": "28-7-2024\\Views\\UserData\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:44:48.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Controllers\\UserDataController.cs",
+              "RelativeDocumentMoniker": "28-7-2024\\Controllers\\UserDataController.cs",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Controllers\\UserDataController.cs",
+              "RelativeToolTip": "28-7-2024\\Controllers\\UserDataController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowEYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:43:25.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersData.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Models\\UsersData.cs",
+              "RelativeDocumentMoniker": "28-7-2024\\Models\\UsersData.cs",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Models\\UsersData.cs",
+              "RelativeToolTip": "28-7-2024\\Models\\UsersData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:42:48.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Models\\UserModel.edmx",
+              "RelativeDocumentMoniker": "28-7-2024\\Models\\UserModel.edmx",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\28-7-2024\\28-7-2024\\Models\\UserModel.edmx [Diagram1]",
+              "RelativeToolTip": "28-7-2024\\Models\\UserModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-28T14:42:20.667Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
