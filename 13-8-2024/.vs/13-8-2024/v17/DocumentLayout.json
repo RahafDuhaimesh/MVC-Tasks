@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|solutionrelative:13-8-2024\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|solutionrelative:13-8-2024\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\asp.net mvc\\13-8-2024\\13-8-2024\\views\\shop\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|solutionrelative:13-8-2024\\views\\shop\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\asp.net mvc\\13-8-2024\\13-8-2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B54C7BA7-2B4B-41A5-89D5-5BBE056B228B}|13-8-2024\\13-8-2024.csproj|solutionrelative:13-8-2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "13-8-2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "13-8-2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:05:47.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Views\\Shop\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "13-8-2024\\Views\\Shop\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Views\\Shop\\AddProduct.cshtml",
+              "RelativeToolTip": "13-8-2024\\Views\\Shop\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:47:59.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "13-8-2024\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "13-8-2024\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:44:53.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "13-8-2024\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\asp.net MVC\\13-8-2024\\13-8-2024\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "13-8-2024\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:36:24.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

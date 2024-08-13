@@ -1,0 +1,44 @@
+﻿@model IEnumerable<string[]>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product List</title>
+    <style>
+        .product-card {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+            display: inline-block;
+            width: 220px;
+        }
+
+            .product-card img {
+                width: 200px;
+                height: 200px;
+            }
+    </style>
+</head>
+<body>
+    <h1>Product List</h1>
+    <div>
+
+        @foreach (var product in Model)
+        {
+
+            
+            <div class="product-card">
+                <center>
+                <img src="@product[2]" alt="@product[0]" /><br />
+                <strong>@product[0]</strong><br />
+                <span>@product[1]</span><br />
+                <input type="button" name="Pay" value="Pay" />
+                <input type="button" name="Add To Cart" value="Add To Cart" /><br />
+                </center>
+            </div>
+            
+        }
+
+    </div>
+</body>
+</html>
